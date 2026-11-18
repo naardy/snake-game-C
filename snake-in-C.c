@@ -4,3 +4,5 @@
 #include<unistd.h>
 #include<time.h>
 
+#define HEIGHT 20
+#define WIDTH 40 
